@@ -9,10 +9,9 @@ some of my design work
 [![design](img/7.jpg)](#feature)  
 [![design](img/10.png)](#feature)  
 [![design](img/11.png)](#feature)
-<img width="200" src="img/12.png" />
-[![design](img/12.png =220px)](#feature)  
-[![design](img/13.png =220px)](#feature) 
-[![design](img/14.png =220px)](#feature)  
-[![design](img/15.png =100x20)](#feature)  
-[![design](img/16.png =100x20)](#feature)  
-[![design](img/17.png =100x20)](#feature)
+<img width="250" src="img/12.png"/>
+<img width="250" src="img/13.png">
+<img width="250" src="img/14.png">
+<img width="250" src="img/15.png">
+<img width="250" src="img/16.png">
+<img width="250" src="img/17.png">
