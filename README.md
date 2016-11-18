@@ -8,7 +8,8 @@ some of my design work
 [![design](img/6.jpg)](#feature)  
 [![design](img/7.jpg)](#feature)  
 [![design](img/10.png)](#feature)  
-[![design](img/11.png)](#feature)  
+[![design](img/11.png)](#feature)
+<img style="width:230px" src="img/12.png" />
 [![design](img/12.png)](#feature)  
 [![design](img/13.png)](#feature) 
 [![design](img/14.png)](#feature)  
