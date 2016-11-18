@@ -9,7 +9,7 @@ some of my design work
 [![design](img/7.jpg)](#feature)  
 [![design](img/10.png)](#feature)  
 [![design](img/11.png)](#feature)
-<img style="width:230px" src="img/12.png" />
+<img width="200" src="img/12.png" />
 [![design](img/12.png =220px)](#feature)  
 [![design](img/13.png =220px)](#feature) 
 [![design](img/14.png =220px)](#feature)  
