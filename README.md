@@ -10,9 +10,9 @@ some of my design work
 [![design](img/10.png)](#feature)  
 [![design](img/11.png)](#feature)
 <img style="width:230px" src="img/12.png" />
-[![design](img/12.png=100x20)](#feature)  
-[![design](img/13.png=100x20)](#feature) 
-[![design](img/14.png=100x20)](#feature)  
+[![design](img/12.png=220px)](#feature)  
+[![design](img/13.png=220px)](#feature) 
+[![design](img/14.png=220px)](#feature)  
 [![design](img/15.png=100x20)](#feature)  
 [![design](img/16.png=100x20)](#feature)  
 [![design](img/17.png=100x20)](#feature)
