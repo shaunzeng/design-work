@@ -1,10 +1,17 @@
 ### design-work
-some of my design work
-  [![design](/img/1.png)](#features)
-  [![design](/img/2.png)] 
-  [![design](/img/3.png)] 
-  [![design](/img/4.png)] 
-  [![design](/img/5.png)]
-  [![design](/img/6.jpg)]
-  [![design](/img/7.jpg)]
-  [![design](/img/10.png)]
+some of my design work  
+[![design](img/1.png)](#feature)  
+[![design](img/2.png)](#feature)  
+[![design](img/3.png)](#feature)  
+[![design](img/4.png)](#feature)  
+[![design](img/5.png)](#feature)  
+[![design](img/6.jpg)](#feature)  
+[![design](img/7.jpg)](#feature)  
+[![design](img/10.png)](#feature)  
+[![design](img/11.png)](#feature)  
+[![design](img/12.png)](#feature)  
+[![design](img/13.png)](#feature) 
+[![design](img/14.png)](#feature)  
+[![design](img/15.png)](#feature)  
+[![design](img/16.png)](#feature)  
+[![design](img/17.png)](#feature)
